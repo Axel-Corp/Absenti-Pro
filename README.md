@@ -61,4 +61,4 @@ Ce projet est sous licence MIT. Vous pouvez l'utiliser, le modifier et le redist
 
 ## **Crédits**
 
-Développé par [Ton Nom ou Ton Entreprise].
+Développé par Axel Corp.
